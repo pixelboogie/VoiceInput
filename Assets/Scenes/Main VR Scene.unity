@@ -337,12 +337,12 @@ GameObject:
   - component: {fileID: 145484434}
   - component: {fileID: 145484433}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: Scale from Audio Clip
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!82 &145484433
 AudioSource:
   m_ObjectHideFlags: 0
@@ -1289,12 +1289,12 @@ GameObject:
   - component: {fileID: 1910614896}
   - component: {fileID: 1910614900}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: Scale From Mic
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!65 &1910614896
 BoxCollider:
   m_ObjectHideFlags: 0
