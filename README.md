@@ -57,5 +57,5 @@ This project is based on the video tutorial by Valem Tutorials, which can be fou
 [How to Use Your Voice as Input in Unity - Microphone and Audio Loudness Detection](https://www.youtube.com/watch?v=dzD0qP8viLw).
 
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for more information.
